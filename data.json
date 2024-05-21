@@ -1,0 +1,95 @@
+{
+    "result": [
+      {
+        "no": "1",
+        "name": "LeBron James",
+        "birth_date": "1984-12-30",
+        "Position": "Small Forward",
+        "International": "United States",
+        "Team": "Los Angeles Lakers",
+        "Poster": "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/r0vuh3itatmf8qoddoun"
+      },
+      {
+        "no": "2",
+        "name": "Kevin Durant",
+        "birth_date": "1988-09-29",
+        "Position": "Power Forward",
+        "International": "United States",
+        "Team": "Brooklyn Nets",
+        "Poster": "https://media.cnn.com/api/v1/images/stellar/prod/230428162142-nike-lifetime-contract-nba-durant-042023.jpg?c=16x9&q=h_833,w_1480,c_fill"
+      },
+      {
+        "no": "6",
+        "name": "Stephen Curry",
+        "birth_date": "1988-03-14",
+        "Position": "Point Guard",
+        "International": "United States",
+        "Team": "Golden State Warriors",
+        "Poster": "https://media.cnn.com/api/v1/images/stellar/prod/230501084147-02-steph-curry-warriors-kings-043023.jpg?c=original"
+      },
+      {
+        "no": "8",
+        "name": "Giannis Antetokounmpo",
+        "birth_date": "1994-12-06",
+        "Position": "Power Forward",
+        "International": "Greece",
+        "Team": "Milwaukee Bucks",
+        "Poster": "https://ca-times.brightspotcdn.com/dims4/default/f2405b0/2147483647/strip/true/crop/4501x3001+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F18%2F851ee2564ac2998bdb515d74165c%2Fbucks-antetokounmpo-basketball-33940.jpg"
+      },
+      {
+        "no": "41",
+        "name": "Luka Dončić",
+        "birth_date": "1999-02-28",
+        "Position": "Point Guard",
+        "International": "Slovenia",
+        "Team": "Dallas Mavericks",
+        "Poster": "https://images.eurohoops.net/2024/05/a63e7675-luka-doncic-celebrates-dallas-mavericks-getty-images.jpg"
+      },
+      {
+        "no": "7",
+        "name": "Kawhi Leonard",
+        "birth_date": "1991-06-29",
+        "Position": "Small Forward",
+        "International": "United States",
+        "Team": "Los Angeles Clippers",
+        "Poster": "https://cdn.nba.com/teams/uploads/sites/1610612746/2024/03/thumbnail_KL_Reel_240329_ORL.jpg"
+      },
+      {
+        "no": "9",
+        "name": "Nikola Jokić",
+        "birth_date": "1995-02-19",
+        "Position": "Center",
+        "International": "Serbia",
+        "Team": "Denver Nuggets",
+        "Poster": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZKCG5BCZJCYZBKLEDNQHWLPMY.jpg&w=750&h=495"
+      },
+      {
+        "no": "10",
+        "name": "James Harden",
+        "birth_date": "1989-08-26",
+        "Position": "Shooting Guard",
+        "International": "United States",
+        "Team": "Brooklyn Nets",
+        "Poster": "https://cdn.vox-cdn.com/thumbor/GbQk3bzghTQxcB5dhCP8heigQ5M=/0x0:3954x2636/1200x800/filters:focal(1661x1002:2293x1634)/cdn.vox-cdn.com/uploads/chorus_image/image/73239597/usa_today_22884805.0.jpg"
+      },
+      {
+        "no": "11",
+        "name": "Damian Lillard",
+        "birth_date": "1990-07-15",
+        "Position": "Point Guard",
+        "International": "United States",
+        "Team": "Portland Trail Blazers",
+        "Poster": "https://media.npr.org/assets/img/2023/02/28/gettyimages-1244183384-8dfef6ae75af076db038b4cbb4812a0d9855d1ab.jpg"
+      },
+      {
+        "no": "12",
+        "name": "Anthony Davis",
+        "birth_date": "1993-03-11",
+        "Position": "Power Forward",
+        "International": "United States",
+        "Team": "Los Angeles Lakers",
+        "Poster": "https://fadeawayworld.net/.image/t_share/MjAzMTcyNzk0NDI5NjEzNjM1/usatsi_22173397.jpg"
+      }
+    ]
+  }
+  
