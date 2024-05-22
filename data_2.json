@@ -1,0 +1,184 @@
+{
+    "result": [
+        {
+            "no": "1",
+            "name": "TenZ",
+            "birth_date": "2001-05-05",
+            "Position": "Duelist",
+            "International": "Canada",
+            "Team": "Sentinels",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/tenz.png"
+        },
+        {
+            "no": "2",
+            "name": "Asuna",
+            "birth_date": "2003-07-26",
+            "Position": "Duelist",
+            "International": "United States",
+            "Team": "100 Thieves",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/asuna-2.png"
+        },
+        {
+            "no": "3",
+            "name": "ScreaM",
+            "birth_date": "1994-07-02",
+            "Position": "Flex",
+            "International": "Belgium",
+            "Team": "Karmine Corp",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/scream.png"
+        },
+        {
+            "no": "4",
+            "name": "Boaster",
+            "birth_date": "1995-05-25",
+            "Position": "In-Game Leader",
+            "International": "United Kingdom",
+            "Team": "Fnatic",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/boaster.png"
+        },
+        {
+            "no": "5",
+            "name": "Mixwell",
+            "birth_date": "1995-10-10",
+            "Position": "Flex",
+            "International": "Spain",
+            "Team": "Team Heretics",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/mixwell.png"
+        },
+        {
+            "no": "6",
+            "name": "ShahZaM",
+            "birth_date": "1993-10-08",
+            "Position": "In-Game Leader",
+            "International": "United States",
+            "Team": "G2 Esports",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/shahzam.png"
+        },
+        {
+            "no": "7",
+            "name": "Derke",
+            "birth_date": "2003-02-06",
+            "Position": "Duelist",
+            "International": "Finland",
+            "Team": "Fnatic",
+            "Poster": "https://prosettings.net/wp-content/uploads/derke.png"
+        },
+        {
+            "no": "8",
+            "name": "dapr",
+            "birth_date": "1999-01-01",
+            "Position": "Sentinel",
+            "International": "United States",
+            "Team": "Sentinels",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/dapr.png"
+        },
+        {
+            "no": "9",
+            "name": "nAts",
+            "birth_date": "2002-07-20",
+            "Position": "Sentinel",
+            "International": "Russia",
+            "Team": "Team Liquid",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/nats-1.png"
+        },
+        {
+            "no": "10",
+            "name": "cNed",
+            "birth_date": "2002-01-25",
+            "Position": "Duelist",
+            "International": "Turkey",
+            "Team": "Natus Vincere",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/cned.png"
+        },
+        {
+            "no": "11",
+            "name": "yay",
+            "birth_date": "1998-09-09",
+            "Position": "Duelist",
+            "International": "United States",
+            "Team": "Cloud9",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/yay.png"
+        },
+        {
+            "no": "12",
+            "name": "FNS",
+            "birth_date": "1991-03-19",
+            "Position": "In-Game Leader",
+            "International": "Canada",
+            "Team": "NRG Esports",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/fns.png"
+        },
+        {
+            "no": "13",
+            "name": "Marved",
+            "birth_date": "1998-06-15",
+            "Position": "Controller",
+            "International": "Canada",
+            "Team": "Sentinels",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/marved.png"
+        },
+        {
+            "no": "14",
+            "name": "Keloqz",
+            "birth_date": "2002-09-16",
+            "Position": "Duelist",
+            "International": "France",
+            "Team": "Team Vitality",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/keloqz.png"
+        },
+        {
+            "no": "15",
+            "name": "Leaf",
+            "birth_date": "2003-03-16",
+            "Position": "Flex",
+            "International": "United States",
+            "Team": "Cloud9",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/leaf.png"
+        },
+        {
+            "no": "16",
+            "name": "Crashies",
+            "birth_date": "1999-12-20",
+            "Position": "Initiator",
+            "International": "United States",
+            "Team": "NRG Esports",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/crashies.png"
+        },
+        {
+            "no": "17",
+            "name": "Zyppan",
+            "birth_date": "2001-11-12",
+            "Position": "Flex",
+            "International": "Sweden",
+            "Team": "Natus Vincere",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/zyppan.png"
+        },
+        {
+            "no": "18",
+            "name": "Forsaken",
+            "birth_date": "2004-03-25",
+            "Position": "In-Game Leader",
+            "International": "Indonesia",
+            "Team": "Paper Rex",
+            "Poster": "https://liquipedia.net/commons/images/7/77/Paper_Rex_-_f0rsakeN.png"
+        },
+        {
+            "no": "19",
+            "name": "mindfreak",
+            "birth_date": "1999-10-04",
+            "Position": "In-Game Leader",
+            "International": "Indonesia",
+            "Team": "Paper Rex",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/mindfreak.png"
+        },
+        {
+            "no": "20",
+            "name": "Chronicle",
+            "birth_date": "2002-03-30",
+            "Position": "Flex",
+            "International": "Russia",
+            "Team": "Fnatic",
+            "Poster": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Cheight=675%2Cq=85%2Csharpen=2%2Cwidth=1200/wp-content/uploads/chronicle.png"
+        }
+    ]
+}
